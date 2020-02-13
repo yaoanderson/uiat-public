@@ -1,5 +1,6 @@
 # uiat-public
 This is a showing project for one web ui automation testing framework which named "uiat" [https://github.com/yaoanderson/uiat(private)]
+![image](https://github.com/yaoanderson/uiat-public/blob/master/uiat.png)
 
 # Background
 Currently the great mass of automation testing frameworks have more or less disadvantages in various aspects, for example, 
