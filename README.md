@@ -20,7 +20,7 @@ some of them do not support running testcases parallelly in remote servers, some
 ![image](https://github.com/yaoanderson/uiat-public/blob/master/case.png)
 7. support adding and updating various drive engine and test engine but not hard code.
 8. support generating test report dynamically during testing.
-![image](https://github.com/yaoanderson/uiat-public/blob/master/test_report.png)
+![image](https://github.com/yaoanderson/uiat-public/blob/master/test_reports.png)
 ...
 
 # Precondition
